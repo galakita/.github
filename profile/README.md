@@ -1,10 +1,10 @@
 # Welcome to GalaKita Project Repository
 
-GalaKita is Software as a Service (SaaS) that provide you a service to create event invitation page like wedding.
+GalaKita is a Software-as-a-Service (SaaS) platform that provides event invitation page creation services, with a particular focus on wedding-related events.
 
 ## Technology Stack:
 
-Here is our technology stack that stands of 3 things. Frontend for consumed / used by user, Backend for provide data and others service then Database for storage.
+The technology stack is comprised of three primary components: the frontend, which is consumed and utilized by the user; the backend, which provides data and other services; and the database, which serves as a storage medium.
 
 ### Frontend:
 
@@ -16,7 +16,7 @@ Here is our technology stack that stands of 3 things. Frontend for consumed / us
 
 - Typescript
 - NodeJS
-- Express
+- NestJS
 - Prisma
 
 ### Database
